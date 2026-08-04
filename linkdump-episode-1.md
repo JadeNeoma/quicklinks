@@ -10,6 +10,8 @@ The horse, which was quite used to having humans around it, didn’t like that s
 #### Alice:
 He stood behind the camera as he watched his wife and child walk towards the pony. It was a sweet looking pony in all honesty. Looked somewhat friendly and the staff had assured him that it was gentle and that his child would be safe. His little one was only about 3 and it was the first time she was meeting a pony. They had taken a long drive in order to visit the farm and meet different animals. As city people the only creatures they saw regularly were the fat rats and stupid dogs on leads. Therefore, a pony was quite special.
 
+***
+
 <img src="assets/img/2.jpg" alt="A woman with her arms slightly surrounded by trees with yellow-orange leaves">
 
 #### Jade:
@@ -17,6 +19,8 @@ Wind, the chill of it as it brushes your hair aside and lifts the leaves from th
 
 #### Alice:
 She walked down the avenue of trees. The autumn light glinting a pale yellow and orange as it shone through the fading leaves of the trees. She has Autumn had never been her favourite season before, preferring spring and its new beginnings rather than the signs of dying and sleep that Autumn had. But this autumn was special. For her it would signify the end of a chapter in her life. A painful one with hard memories that one day she will look back on with little care for the people she was saying goodbye to now. For the moment, the trees and fallen leaves accompanied her.
+
+***
 
 <img src="assets/img/3.jpg" alt="A grassy plain with a large snowy mountain behind, a small grouping of buildings in the mid ground and a stream in the foreground">
 
@@ -26,6 +30,8 @@ It was a beautiful day at the research station, there was always something quiet
 #### Alice:
 The mountains appear to be lonely places. Especially the ones with snow as they are so beautiful to look at from a distance, but harsh when actually in them. But if you listen to the stories told to you by people who live at the base of such mountain you might learn that there are beings in them that are right out a story book. The people who live near these mountains are the kind of people who leave honey out for the Fae folk and talk to their beehives about their families and lives. These superstitions are strange, but perhaps they hold a truth.
 
+***
+
 <img src="assets/img/4.jpg" alt="A view down a street in new york with lots of activity in the background but almost empty in the section closest to the camera">
 
 #### Jade:
@@ -33,6 +39,8 @@ The City stretched on endlessly, rows and rows of buildings that were never real
 
 #### Alice:
 It’s a strange place to be, standing in the middle of the road in a city. Most people would stay to the pavements and designated crossing. But sometimes its important to stand in the middle of the road. You can look at a city from a different point of view. And perhaps you will see the secrets that it is hiding. That in the reflections on windows there are faces that don’t belong to the occupants behind them. That if you’re lucky, or perhaps unfortunate, you will see the shadows that peak out from flickering city lights watching you back.
+
+***
 
 ## Other Links
 -
