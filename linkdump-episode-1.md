@@ -40,7 +40,5 @@ The City stretched on endlessly, rows and rows of buildings that were never real
 #### Alice:
 It’s a strange place to be, standing in the middle of the road in a city. Most people would stay to the pavements and designated crossing. But sometimes its important to stand in the middle of the road. You can look at a city from a different point of view. And perhaps you will see the secrets that it is hiding. That in the reflections on windows there are faces that don’t belong to the occupants behind them. That if you’re lucky, or perhaps unfortunate, you will see the shadows that peak out from flickering city lights watching you back.
 
-***
-
 ## Other Links
 -
