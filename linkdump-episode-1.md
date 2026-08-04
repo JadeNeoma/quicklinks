@@ -1,4 +1,4 @@
-# Episode 2 - Losing The Plot
+# Episode 1 - How Not To Start A Writing Project
 ## Writing Exercise: Picturesque Writing
 ### Writing:
 
